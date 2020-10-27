@@ -1,4 +1,4 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-st.Title("Student Performance Predictor")
+st.title("Student Performance Predictor")
